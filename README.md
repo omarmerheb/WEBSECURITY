@@ -7,7 +7,7 @@
 **Are you a web developer wanting to secure your website with little time and effort?** WEBSECURITY is your ultimate solution - a comprehensive Bash-based security scanner that identifies vulnerabilities and provides actionable fix examples in minutes.
 # 🛡️ WebSecurity.sh – Web Application Security Automation Script
 
-## !! Overview
+## Overview
 
 `websecurity.sh` is a **Bash-based web application security script** designed for penetration testers, bug bounty hunters, red teamers, and security enthusiasts.  
 It automates essential security assessments to detect vulnerabilities such as:
@@ -23,11 +23,11 @@ This tool is lightweight, fast, and ideal for both **manual testing augmentation
 
 ---
 
-## !! Features
+## Features
 
 - ✅ **Automated Vulnerability Scanning**: Quickly identify common web vulnerabilities.
 - ✅ **Customizable Payloads**: Extendable to include your own test cases.
-- ✅ **Minimal Dependencies**: Only requires Bash, curl, and grep.
+- ✅ **Minimal Dependencies**: Only requires a minimal amount of lightweight tools
 - ✅ **Open Source & Free**: MIT License.
 
 ---
@@ -54,7 +54,7 @@ systemctl
 ```
 ---
 
-## !! Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -62,9 +62,3 @@ systemctl
 git clone https://github.com/omarmerheb/WEBSECURITY.git
 cd WEBSECURITY
 ```
-If this tool helped you secure your applications, consider supporting the project:
-
-BTC: 15o7Md2HJrQU2rSNyf5Azt8SPu9aBCCLi9
-
-Made with ❤️ for developers who care about security
-
