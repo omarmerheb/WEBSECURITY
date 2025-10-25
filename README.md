@@ -31,6 +31,28 @@ This tool is lightweight, fast, and ideal for both **manual testing augmentation
 - ✅ **Open Source & Free**: MIT License.
 
 ---
+## Requirements :
+```bash
+bash
+curl
+grep
+sed
+awk
+openssl
+coreutils        # provides timeout, date, etc. (usually present)
+nmap
+nikto            # optional: web server scanner (menu mentions Full Scan)
+exploitdb        # provides searchsploit (optional: "Search ExploitDB" menu)
+certbot          # optional: certificate obtain/renew helper (letsencrypt)
+ufw              # optional (firewall-related recommendations)
+iptables         # optional (firewall command-line)
+# utilities often present by default but listed for completeness:
+tr
+awk
+ps
+systemctl
+```
+---
 
 ## !! Installation
 
